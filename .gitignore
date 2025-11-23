@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.gemini/
+tmp/
+.DS_Store

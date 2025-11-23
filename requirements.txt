@@ -1,0 +1,6 @@
+openai-agents
+streamlit
+pypdf
+python-dotenv
+litellm
+google-generativeai

@@ -1,0 +1,12 @@
+[project]
+name = "aidd-task-4"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "openai-agents>=0.6.1",
+    "pypdf>=6.4.0",
+    "streamlit>=1.51.0",
+]
