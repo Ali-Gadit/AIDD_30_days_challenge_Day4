@@ -17,5 +17,5 @@
 
 ---
 
-### **4️⃣ Quiz Generator Output**
+### **4️⃣ Quiz Generator Output after clicking create quiz button**
 ![Quiz](./public/generated%20quiz.png)
